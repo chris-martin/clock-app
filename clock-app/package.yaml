@@ -2,8 +2,11 @@ name: clock-app
 version: 0.1.0.0
 category: Applications
 
-synopsis:    Toy GTK app that displays a digital clock.
-description: Toy GTK app that displays a digital clock.
+synopsis: >
+  Toy GTK app that displays a digital clock.
+description: >
+  A toy Haskell clock app. Demonstrates use of gtk3, cairo,
+  pango, async, and STM.
 
 author:     Chris Martin <ch.martin@gmail.com>
 maintainer: Chris Martin <ch.martin@gmail.com>
