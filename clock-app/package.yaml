@@ -1,5 +1,5 @@
 name: clock-app
-version: 0.1.0.0
+version: 0.1.0.1
 category: Applications
 
 synopsis: >
@@ -11,7 +11,7 @@ description: >
 author:     Chris Martin <ch.martin@gmail.com>
 maintainer: Chris Martin <ch.martin@gmail.com>
 
-homepage: https://github.com/chris-martin/haskell-libraries
+homepage: https://github.com/chris-martin/clock-app
 
 license:      Apache-2.0
 license-file: license.txt
